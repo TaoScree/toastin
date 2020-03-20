@@ -19,6 +19,6 @@
     <meta name="og:description" content="toastin">
     <link rel="icon" type="image/png" sizes="1000x1000" href="/toastin.gif">
 </head>
-  <body background="toastin.gif">
+  <body background="toastin.gif" bgcolor="#32353b">
 <center>
 <img src="toastin.gif" alt="toastin">
