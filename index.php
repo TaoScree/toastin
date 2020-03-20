@@ -12,7 +12,7 @@
     <meta name="title" content="toastin">
     <meta name="description" content="toastin">
     <meta name="og:site_name" content="toastin">
-    <meta name="theme-color" content="#000080">
+    <meta name="theme-color" content="#32353b">
     <meta name="og:image" content="/toastin.gif">
     <meta name="og:url" content="https://toastin.me">
     <meta name="og:title" content="toastin">
