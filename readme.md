@@ -1,2 +1,2 @@
-toastin
-https://toastin.me/toastin.gif
+#toastin
+https://toastin.me
