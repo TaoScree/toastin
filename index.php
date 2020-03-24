@@ -21,4 +21,4 @@
 </head>
   <body background="toastin.gif" bgcolor="#32353b">
 <center>
-<img src="toastin.gif" alt="toastin">
+
